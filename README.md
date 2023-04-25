@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R-cato
 - 👀 I’m interested in web and software development. Also anything to do with technology!
 - 🌱 I’m currently learning Web Development at Full Sail University and C# in my own time.
-- 💞️ I’m looking to collaborate on any project that will help me learn and grow as a developer. I know Javascript, ReactJs, and C#!
+- 💞️ I’m looking to collaborate on any project that will help me learn and grow as a developer. I know Javascript, ReactJs, and C# as well as other technologies commonly used in web development!
 - 📫 How to reach me - you can email me at catoraymond@gmail.com
 
 <!---
